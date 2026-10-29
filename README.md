@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/atom-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/atom-light.svg" />
-  <img src="assets/atom-dark.svg" alt="Francesco Screti, student researcher in Human-AI Interaction" width="100%" />
+  <img src="assets/atom-dark.svg" alt="Francesco Screti, student researcher in Human-AI Interaction" width="80%" />
 </picture>
 
 <a href="https://www.linkedin.com/in/francesco-screti-b2a80b296/">
