@@ -1,0 +1,44 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/atom-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/atom-light.svg" />
+  <img src="assets/atom-dark.svg" alt="Francesco Screti, student researcher in Human-AI Interaction" width="100%" />
+</picture>
+
+<a href="https://www.linkedin.com/in/francesco-screti-b2a80b296/">
+<img src="assets/btn-linkedin.svg" alt="LinkedIn" height="30"/>
+</a>
+<a href="mailto:fscreti12@gmail.com">
+<img src="assets/btn-email.svg" alt="Email" height="30"/>
+</a>
+
+</div>
+
+---
+
+## About
+
+I hold a BSc in ICT (Social Innovation, Communication and New Technologies) from the University of Turin, and I am now enrolled in the MSc in Human-Centered Services for Digital Societies at the same university.
+
+My research interests span the human and the technical side of conversational AI, from user interaction with LLM-based chatbots, mental models and the philosophy of AI to knowledge representation in language models and mechanistic interpretability.
+
+---
+
+## Projects
+
+| Project | Description |
+| ------- | ----------- |
+| [fake-news-finetuning-vs-prompting](https://github.com/scretifrancesco/fake-news-finetuning-vs-prompting) | Fake news detection with fine-tuned DistilBERT vs zero-shot and few-shot prompting of gemma2:2b |
+| [appunti-ict-unito](https://github.com/scretifrancesco/appunti-ict-unito) | Free LaTeX notes for the courses of the BSc in ICT, University of Turin (Italian) |
+| [appunti-shc-unito](https://github.com/scretifrancesco/appunti-shc-unito) | Free LaTeX notes for the courses of the MSc in Human-Centered Services, University of Turin (Italian) |
+
+---
+
+## Tech Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg" />
+  <img src="assets/stack-dark.svg" alt="Python, PyTorch, Hugging Face, Ollama, Streamlit, Stata, Figma, HTML, CSS, JavaScript, LaTeX, Overleaf" width="100%" />
+</picture>
