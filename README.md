@@ -7,10 +7,10 @@
 </picture>
 
 <a href="https://www.linkedin.com/in/francesco-screti-b2a80b296/">
-<img src="assets/btn-linkedin.svg" alt="LinkedIn" height="30"/>
+<img src="assets/btn-linkedin.svg" alt="LinkedIn" height="32"/>
 </a>
 <a href="mailto:fscreti12@gmail.com">
-<img src="assets/btn-email.svg" alt="Email" height="30"/>
+<img src="assets/btn-email.svg" alt="Email" height="32"/>
 </a>
 
 </div>

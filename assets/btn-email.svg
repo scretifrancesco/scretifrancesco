@@ -1,16 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="148" height="52" viewBox="0 0 148 52">
+<svg xmlns="http://www.w3.org/2000/svg" width="91" height="32" viewBox="0 0 148 52" text-rendering="geometricPrecision">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.4"><stop offset="0" stop-color="#EA580C"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
-  <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#fff" stop-opacity="0.22"/><stop offset="0.5" stop-color="#fff" stop-opacity="0"/></linearGradient>
-  <filter id="ts" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#000" flood-opacity="0.45"/></filter>
   <clipPath id="pill"><rect width="148" height="52" rx="26.0"/></clipPath>
 </defs>
 <g clip-path="url(#pill)">
   <rect width="148" height="52" fill="url(#bg)"/>
-  <rect width="148" height="52" fill="url(#gloss)"/>
 </g>
-<g filter="url(#ts)"><g transform="translate(21 16)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
+<g><g transform="translate(21 16)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
   <rect x="0" y="0" width="26" height="19" rx="3"/><path d="M1.5 2.5 L13 11 L24.5 2.5"/></g>
 <text x="60" y="33.0" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#fff" letter-spacing="0.4">Email</text></g>
 </svg>
