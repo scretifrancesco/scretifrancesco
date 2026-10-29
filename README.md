@@ -24,7 +24,7 @@ My research interests span the human and the technical side of conversational AI
 
 | Project | Description |
 | ------- | ----------- |
-| [fake-news-finetuning-vs-prompting](https://github.com/scretifrancesco/fake-news-finetuning-vs-prompting) | Can a small fine-tuned model beat a prompted LLM at spotting fake news? DistilBERT vs zero-shot and few-shot prompting of gemma2:2b |
+| [fake-news-finetuning-vs-prompting](https://github.com/scretifrancesco/fake-news-finetuning-vs-prompting) | Can a small fine-tuned model beat a prompted LLM at spotting fake news? |
 | [appunti-ict-unito](https://github.com/scretifrancesco/appunti-ict-unito) | Free LaTeX notes for the courses of the BSc in ICT, University of Turin (Italian) |
 | [appunti-shc-unito](https://github.com/scretifrancesco/appunti-shc-unito) | Free LaTeX notes for the courses of the MSc in Human-Centered Services, University of Turin (Italian) |
 
