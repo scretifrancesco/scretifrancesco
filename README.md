@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/atom-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/atom-light.svg" />
-  <img src="assets/atom-dark.svg" alt="Francesco Screti, student researcher in Human-AI Interaction" width="80%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/atom-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/atom-light.svg?v=2" />
+  <img src="assets/atom-dark.svg?v=2" alt="Francesco Screti, student researcher in Human-AI Interaction" width="100%" />
 </picture>
 
 <p align="center"><a href="https://www.linkedin.com/in/francesco-screti-b2a80b296/"><img src="assets/btn-linkedin.svg?v=3" alt="LinkedIn" height="32"/></a>&nbsp;&nbsp;<a href="mailto:fscreti12@gmail.com"><img src="assets/btn-email.svg?v=3" alt="Email" height="32"/></a></p>
