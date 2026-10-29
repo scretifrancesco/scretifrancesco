@@ -6,7 +6,7 @@
   <img src="assets/atom-dark.svg" alt="Francesco Screti, student researcher in Human-AI Interaction" width="80%" />
 </picture>
 
-<p align="center"><a href="https://www.linkedin.com/in/francesco-screti-b2a80b296/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="32"/></a>&nbsp;&nbsp;<a href="mailto:fscreti12@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="32"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/francesco-screti-b2a80b296/"><img src="assets/btn-linkedin.svg?v=3" alt="LinkedIn" height="32"/></a>&nbsp;&nbsp;<a href="mailto:fscreti12@gmail.com"><img src="assets/btn-email.svg?v=3" alt="Email" height="32"/></a></p>
 
 </div>
 
