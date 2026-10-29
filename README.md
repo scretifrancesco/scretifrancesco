@@ -14,7 +14,7 @@
 
 ## About
 
-I hold a BSc in ICT (Social Innovation, Communication and New Technologies) from the University of Turin, and I am now enrolled in the MSc in Human-Centered Services for Digital Societies at the same university.
+I hold a BSc in ICT (Innovation, Communication and Technologies) from the University of Turin, and I am now enrolled in the MSc in Human-Centered Services for Digital Societies at the same university.
 
 My research interests span the human and the technical side of conversational AI, from user interaction with LLM-based chatbots, mental models and the philosophy of AI to knowledge representation in language models and mechanistic interpretability.
 
