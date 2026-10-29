@@ -33,7 +33,7 @@ My research interests span the human and the technical side of conversational AI
 ## Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg?v=4" />
-  <img src="assets/stack-dark.svg?v=4" alt="Python, PyTorch, Hugging Face, Ollama, Streamlit, Stata, Figma, HTML, CSS, JavaScript, LaTeX, Overleaf" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg?v=5" />
+  <img src="assets/stack-dark.svg?v=5" alt="Python, PyTorch, Hugging Face, Ollama, Streamlit, Stata, Figma, HTML, CSS, JavaScript, PHP, MySQL, LaTeX, Overleaf" width="100%" />
 </picture>
