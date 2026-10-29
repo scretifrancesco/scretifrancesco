@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="91" height="32" viewBox="0 0 148 52" text-rendering="geometricPrecision">
+<svg xmlns="http://www.w3.org/2000/svg" width="81" height="32" viewBox="0 0 132 52" text-rendering="geometricPrecision">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.4"><stop offset="0" stop-color="#EA580C"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
-  <clipPath id="pill"><rect width="148" height="52" rx="26.0"/></clipPath>
+  <clipPath id="pill"><rect width="132" height="52" rx="26.0"/></clipPath>
 </defs>
 <g clip-path="url(#pill)">
-  <rect width="148" height="52" fill="url(#bg)"/>
+  <rect width="132" height="52" fill="url(#bg)"/>
 </g>
 <g><g transform="translate(21 16)" fill="none" stroke="#fff" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round">
   <rect x="0" y="0" width="26" height="19" rx="3"/><path d="M1.5 2.5 L13 11 L24.5 2.5"/></g>
