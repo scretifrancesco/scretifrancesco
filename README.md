@@ -24,6 +24,7 @@ My research interests span the human and the technical side of conversational AI
 
 | Project | Description |
 | ------- | ----------- |
+| [AI2B-Turin](https://github.com/scretifrancesco/AI2B-Turin) | Compass, a Social Impact Planner that tells welfare funders where to invest across the 92 zones of Turin, built from open data with an explainable AI (Campionato Universitario AI 2026) |
 | [fake-news-finetuning-vs-prompting](https://github.com/scretifrancesco/fake-news-finetuning-vs-prompting) | Can a small fine-tuned model beat a prompted LLM at spotting fake news? |
 | [appunti-ict-unito](https://github.com/scretifrancesco/appunti-ict-unito) | Free, textbook-style LaTeX notes I wrote for the courses of the BSc in ICT at the University of Turin (in Italian) |
 
