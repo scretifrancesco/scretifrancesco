@@ -24,6 +24,7 @@ My research interests span the human and the technical side of conversational AI
 
 | Project | Description |
 | ------- | ----------- |
+| [weight-space-pilot](https://github.com/scretifrancesco/weight-space-pilot) | Can a local open LLM improve a neural network by rewriting its weights directly, with no training? |
 | [AI2B-Turin](https://github.com/scretifrancesco/AI2B-Turin) | Where should welfare funding go in Turin? An explainable AI planner built on open data |
 | [fake-news-finetuning-vs-prompting](https://github.com/scretifrancesco/fake-news-finetuning-vs-prompting) | Can a small fine-tuned model beat a prompted LLM at spotting fake news? |
 | [appunti-ict-unito](https://github.com/scretifrancesco/appunti-ict-unito) | Free, textbook-style LaTeX notes I wrote for the courses of the BSc in ICT at the University of Turin (in Italian) |
